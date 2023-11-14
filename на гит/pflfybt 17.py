@@ -1,0 +1,1 @@
+print(sum([int(d) for d in str(int(input('Введите целое число: ')))]))
